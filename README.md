@@ -48,9 +48,4 @@ This aligns with the broader Web3 vision of a free, private, and decentralized i
 2. Users call `payForVPN()` to pay and gain access.
 3. You (the owner) can call `withdraw()` to collect payments.
 
-> Note: This is a basic prototype and can be extended for production-grade use.
 
----
-
-## 📄 License
-This project is licensed under the MIT License.
